@@ -20,4 +20,22 @@ public class Employee implements Serializable {
     private String imageUrl;
     @Column(nullable = false, updatable = false)
     private String employeeCode;
+
+    public Employee(){}
+
+    public Employee(String firstName, String lastName, String email, String phone, String department, String jobTitle, String location, Boolean remoteStatus, String imageUrl, String employeeCode){
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.email= email;
+        this.phone = phone;
+        this.department = department;
+        this.jobTitle = jobTitle;
+        this.location = location;
+        this.remoteStatus = remoteStatus;
+        this.imageUrl = imageUrl;
+        this.employeeCode = employeeCode;
+    }//end constructor
+
 }//end class
+
+
