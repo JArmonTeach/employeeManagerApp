@@ -126,6 +126,7 @@ public class Employee implements Serializable {
                 ", jobTitle='" + jobTitle + '\'' +
                 ", location='" + location + '\'' +
                 ", imageUrl='" + imageUrl + '\'' +
+                ", employeeCode='" + employeeCode + '\'' +
                 '}';
     }//end toString
 }//end class
