@@ -46,7 +46,7 @@ public class Employee implements Serializable {
         return firstName;
     }
 
-    public void setId(String firstName){
+    public void setFirstName(String firstName){
         this.firstName = firstName;
     }
 
