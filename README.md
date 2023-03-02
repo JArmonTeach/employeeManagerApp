@@ -5,7 +5,7 @@ Backend of Full Stack employee manager app with Angular (JavaScript) and Spring 
 
 ## Table of Contents
 
-## Instalation
+## Installation
 
 ## Usage
 
