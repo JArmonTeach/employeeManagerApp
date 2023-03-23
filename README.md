@@ -22,7 +22,12 @@ Java 17 with Spring 2.7.5 was used so as to learn its basic syntax and semantics
             4. Spring Boot starter validation
             5. Spring Boot Starter web
 ## Usage
-
+    1. Once both the frontend code and backend code for the application are ran, the user can add a new employee by clicking "Add Employee" button.
+    2. The user can fill in the employee information and save the new employee who will appear on the dashboard automatically.
+    3. To edit an employee, click the blue button with a pencil icon on the employee card that you would like to edit.
+    4. Click save to save the edits made.
+    5. To search an employee, start typing any known information into the search bar and the employee that matches that search will appear.
+    6. To delete an employee card, click the X grey button on the respective employee card and click Yes on the following prompt to acutally delete.
 ## Credits
 
 ## License 
