@@ -28,6 +28,8 @@ Java 17 with Spring 2.7.5 was used so as to learn its basic syntax and semantics
     4. Click save to save the edits made.
     5. To search an employee, start typing any known information into the search bar and the employee that matches that search will appear.
     6. To delete an employee card, click the X grey button on the respective employee card and click Yes on the following prompt to acutally delete.
+    
 ## Credits
+    Tutorial that had base employee manager project: https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=1s
 
 ## License 
